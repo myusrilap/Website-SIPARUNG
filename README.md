@@ -56,7 +56,7 @@ Calendar / Schedule
 **Project:** SIPARUNG — Sistem Informasi Peminjaman Ruang
 **Context:** Praktik Kerja Lapangan (PKL)
 **Development:** Team Project
-**Organization:** PT Telkom Indonesia (Persero) Tbk Regional Kalimantan
+**Organization:** BKPSDM Kota Samarinda
 
 ## 🚀 Running the Project
 
